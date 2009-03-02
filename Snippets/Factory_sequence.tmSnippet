@@ -9,7 +9,7 @@ end</string>
 	<key>name</key>
 	<string>Factory.sequence</string>
 	<key>scope</key>
-	<string>source.ruby.rails.shoulda</string>
+	<string>source.ruby.rails</string>
 	<key>tabTrigger</key>
 	<string>facs</string>
 	<key>uuid</key>

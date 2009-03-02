@@ -8,7 +8,7 @@ f.$0</string>
 	<key>name</key>
 	<string>association</string>
 	<key>scope</key>
-	<string>source.ruby.rails.shoulda</string>
+	<string>source.ruby.rails</string>
 	<key>tabTrigger</key>
 	<string>f.a</string>
 	<key>uuid</key>

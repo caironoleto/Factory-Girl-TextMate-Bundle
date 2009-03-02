@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Factory.next</string>
 	<key>scope</key>
-	<string>source.ruby.rails.shoulda</string>
+	<string>source.ruby.rails</string>
 	<key>tabTrigger</key>
 	<string>facn</string>
 	<key>uuid</key>
