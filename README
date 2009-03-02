@@ -1,5 +1,6 @@
-Version 0.3 by David Lowenfels
+# Factory Girl tmbundle
 
-The syntax and preferences are based on the RSpec bundle.
-The snippets were contributed by Dan Croak and Sam Livingston-Gray, and mashed up by me.
-I modified the Ruby bundle’s “run focused unit test” to support the shoulda syntax.
+Version 1 by Oliver Legg
+
+Forked the [Ruby Shoulda TextMate bundle](drnic/ruby-shoulda-tmbundle) and
+removed all of the Shoulda references, leaving the Factory Girl snippets.
