@@ -3,8 +3,8 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>f.association :${1:name}${2:, :factory =&gt; :${3:factory_name}}
-f.$0</string>
+	<string>factory.association :${1:name}${2:, :factory =&gt; :${3:factory_name}}
+factory.$0</string>
 	<key>name</key>
 	<string>association</string>
 	<key>scope</key>
