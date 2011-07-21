@@ -3,12 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>factory.association :${1:name}${2:, :factory =&gt; :${3:factory_name}}
-factory.$0</string>
+	<string>factory.association :${1:name}${2:, :factory =&gt; :${1:name}}</string>
 	<key>name</key>
 	<string>association</string>
 	<key>scope</key>
-	<string>source.ruby</string>
+	<string>source.ruby, source.ruby.rails, source.ruby.rspec</string>
 	<key>tabTrigger</key>
 	<string>f.a</string>
 	<key>uuid</key>

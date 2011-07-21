@@ -3,16 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Factory.sequence :${1:name} do |n|
-  $0
-end</string>
+	<string>Factory.create(:${1:model})</string>
 	<key>name</key>
-	<string>Factory.sequence</string>
+	<string>Factory create</string>
 	<key>scope</key>
-	<string>source.ruby</string>
+	<string>source.ruby, source.ruby.rails, source.ruby.rspec</string>
 	<key>tabTrigger</key>
-	<string>facs</string>
+	<string>facc</string>
 	<key>uuid</key>
-	<string>11B3F310-CF79-47B5-8A42-8051ECD2954C</string>
+	<string>AD031C63-7712-4124-887A-BA60EDEEC6AF</string>
 </dict>
 </plist>

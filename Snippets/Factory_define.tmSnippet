@@ -4,12 +4,12 @@
 <dict>
 	<key>content</key>
 	<string>Factory.define :${1:model} do |factory|
-  factory.$0
+  $0
 end</string>
 	<key>name</key>
 	<string>Factory.define</string>
 	<key>scope</key>
-	<string>source.ruby</string>
+	<string>source.ruby, source.ruby.rails, source.ruby.rspec</string>
 	<key>tabTrigger</key>
 	<string>facd</string>
 	<key>uuid</key>
