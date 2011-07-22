@@ -1,6 +1,0 @@
-# Factory Girl tmbundle
-
-Version 1 by Oliver Legg
-
-Forked the [Ruby Shoulda TextMate bundle](drnic/ruby-shoulda-tmbundle) and
-removed all of the Shoulda references, leaving the Factory Girl snippets.
