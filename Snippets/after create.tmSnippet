@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>FactoryGirl.attributes_for(:${1:model}${2:, options})</string>
+	<string>after_create { $0 }</string>
 	<key>name</key>
-	<string>FactoryGirl attributes for</string>
+	<string>after create</string>
 	<key>scope</key>
 	<string>source.ruby, source.ruby.rails, source.ruby.rspec</string>
 	<key>tabTrigger</key>
-	<string>fgaf</string>
+	<string>afc</string>
 	<key>uuid</key>
-	<string>86A59E4B-D889-464F-BF4E-D935110AD5ED</string>
+	<string>2A318EBE-9728-4909-A62A-D976C3B9129C</string>
 </dict>
 </plist>

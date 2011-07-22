@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Factory.next(:${1:sequence})</string>
+	<string>Factory.next :${1:attribute}</string>
 	<key>name</key>
-	<string>Factory.next</string>
+	<string>Next factory</string>
 	<key>scope</key>
 	<string>source.ruby, source.ruby.rails, source.ruby.rspec</string>
 	<key>tabTrigger</key>

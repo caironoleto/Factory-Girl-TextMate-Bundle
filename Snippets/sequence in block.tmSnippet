@@ -3,14 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>FactoryGirl.attributes_for(:${1:model}${2:, options})</string>
+	<string>sequence :${1:attribute} do |n|
+  ${0:"#{n\}"}
+end</string>
 	<key>name</key>
-	<string>FactoryGirl attributes for</string>
+	<string>sequence in block</string>
 	<key>scope</key>
 	<string>source.ruby, source.ruby.rails, source.ruby.rspec</string>
 	<key>tabTrigger</key>
-	<string>fgaf</string>
+	<string>seq</string>
 	<key>uuid</key>
-	<string>86A59E4B-D889-464F-BF4E-D935110AD5ED</string>
+	<string>8A924C13-D839-4531-8D61-8057024B5CA3</string>
 </dict>
 </plist>

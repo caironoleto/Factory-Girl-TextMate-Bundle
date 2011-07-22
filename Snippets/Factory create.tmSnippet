@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Factory.create(:${1:model})</string>
+	<string>FactoryGirl.create(:${1:model}${2:, options})</string>
 	<key>name</key>
-	<string>Factory create</string>
+	<string>FactoryGirl create</string>
 	<key>scope</key>
 	<string>source.ruby, source.ruby.rails, source.ruby.rspec</string>
 	<key>tabTrigger</key>
-	<string>facc</string>
+	<string>fgc</string>
 	<key>uuid</key>
 	<string>AD031C63-7712-4124-887A-BA60EDEEC6AF</string>
 </dict>
