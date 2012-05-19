@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>factory :${1:factory_name}${2:class =&gt; Model, :aliases =&gt; [:relationships]} do
+	<string>factory :${1:factory_name}${2:${3:, :class =&gt; ${4:Model}}${5:, :parent =&gt; :${6:factory}}${7:, :aliases =&gt; [:${8:alias}]}} do
   $0
 end</string>
 	<key>name</key>

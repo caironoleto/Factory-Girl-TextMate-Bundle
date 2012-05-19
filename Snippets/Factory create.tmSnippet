@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>FactoryGirl.create(:${1:model}${2:, options})</string>
+	<string>FactoryGirl.create(:${1:model}${2:, ${3:options}})</string>
 	<key>name</key>
 	<string>FactoryGirl create</string>
 	<key>scope</key>
