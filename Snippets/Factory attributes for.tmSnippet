@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>FactoryGirl.attributes_for(:${1:model}${2:, options})</string>
+	<string>FactoryGirl.attributes_for(:${1:model}${2:, ${3:options}})</string>
 	<key>name</key>
 	<string>FactoryGirl attributes for</string>
 	<key>scope</key>
